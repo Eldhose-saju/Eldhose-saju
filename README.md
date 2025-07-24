@@ -24,18 +24,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Eldhose-saju&show_icons=true&theme=tokyonight" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldhose-saju&layout=compact&theme=tokyonight" height="180" />
 </p>
-<h3 style="text-align: center;">Contact Me</h3>
-
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-
-  <a href="mailto:yourmail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-
-  <a href="https://www.instagram.com/your-instagram-username/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-</div>
