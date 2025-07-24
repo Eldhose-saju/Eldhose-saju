@@ -1,25 +1,8 @@
 <h1 align="center">Hi there, I'm Eldhose </h1>
 
-
-<!-- Top Image -->
 <p align="center">
-  <img src="img/b1.jpg" width="500" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="700"  />
 </p>
-
-<!-- Middle Row: Left - Center GIF - Right -->
-<p align="center">
-  <img src="your_left_image_url" width="150" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="400" />
-  <img src="your_right_image_url" width="150" />
-</p>
-
-<!-- Bottom Image -->
-<p align="center">
-  <img src="your_bottom_image_url" width="300" />
-</p>
-
-
-
 
 
 
