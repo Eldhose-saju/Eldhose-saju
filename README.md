@@ -4,20 +4,17 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width="500" />
 </p>
 
----
 
-🌱 I’m currently learning **Web Dev & AI**  
-💻 Passionate about building real-world projects  
-📫 Reach me at: eldhose@email.com  
 
----
-
-### 🔧 Tools & Tech Stack
+###  Tools & Tech Stack
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 
 </p>
 
