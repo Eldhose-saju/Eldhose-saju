@@ -1,6 +1,8 @@
-<div style="background-color:#0d1117; padding:0;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" alt="banner" style="width:100%; display:block;" />
-</div>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif
+  " width="100%" />
+</p>
+
 
 
 ###  Tools & Tech Stack
