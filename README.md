@@ -1,6 +1,4 @@
-<div style="background-color:#0d1117; padding:0;">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" alt="banner" style="width:100%; display:block;" />
-</div>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif" width=5000>
 
 
 ###  Tools & Tech Stack
@@ -22,5 +20,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Eldhose-saju&show_icons=true&theme=tokyonight" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eldhose-saju&layout=compact&theme=tokyonight" height="180" />
+
 </p>
