@@ -1,4 +1,4 @@
-<img src="https://giphy.com/gifs/smoking-cowboy-bebop-lgTpcy4dkdUc0" width=5000>
+<img src="https://giphy.com/gifs/smoking-cowboy-bebop-lgTpcy4dkdUc0.gif" width=5000>
 
 
 ###  Tools & Tech Stack
