@@ -1,4 +1,4 @@
-<img src="[[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExd213N20zdjlsZmRkYmc3ZzdrbGplMnNjbjZ0b2N4c2tpbDg2cm9jayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JqmupuTVZYaQX5s094/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZwemI5YzQ4Zm4wcmwxbDNvYzg4MmgzNWQwNmZ2ZWw0NTlrNmdobyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/lgTpcy4dkdUc0/giphy.gif](https://giphy.com/gifs/smoking-cowboy-bebop-lgTpcy4dkdUc0))" width=5000>
+<img src="https://giphy.com/gifs/smoking-cowboy-bebop-lgTpcy4dkdUc0" width=5000>
 
 
 ###  Tools & Tech Stack
